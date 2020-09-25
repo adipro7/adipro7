@@ -5,7 +5,6 @@
 #### My Domains of Interest include: Software Development, Deep Learning and Competitive Programming
 - 🔭 I’m currently working on a **Federated Learning** Project!
 - 🌱 I’m currently learning stuff about **Data Structures, Algorithms and Federated Learning**
-- 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play Synthesizer & Chegging.
 
 #### Connect with me:
