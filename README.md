@@ -1,14 +1,14 @@
 ### Hi there, I'm Aditya!
 
-## I'm a Junior Undergraduate pursuing B.Tech in Electronics Engineering from IIT BHU, Varanasi.
-## I will be interning as a Member Technical Staff (MTS) @ ORACLE in the summer of 2021.
-## My Domains of Interest include: Software Development, Deep Learning and Competitive Programming
+#### I'm a Junior Undergraduate pursuing B.Tech in Electronics Engineering from IIT BHU, Varanasi.
+#### I will be interning as a Member Technical Staff (MTS) @ ORACLE in the summer of 2021.
+#### My Domains of Interest include: Software Development, Deep Learning and Competitive Programming
 - 🔭 I’m currently working on a **Federated Learning** Project!
 - 🌱 I’m currently learning stuff about **Data Structures, Algorithms and Federated Learning**
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play Synthesizer & Chegging.
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="aditya-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sublime Text" width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
