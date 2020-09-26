@@ -1,7 +1,7 @@
 ### Hi there, I'm Aditya👋️!
 
 I'm a *Junior Undergraduate* in ***Electronics Engineering*** from **IIT BHU, Varanasi**.
-I will be interning as a ***Member Technical Staff (MTS)*** @ **ORACLE** in the summer of 2021.
+I will be interning as a ***Member Technical Staff (MTS)*** in the ***Server Technology Group*** @ **ORACLE** in the summer of 2021.
 My Domains of Interest include: ***Software Development, Deep Learning*** and ***Competitive Programming***.
 - 🔭 I’m currently working on a **Federated Learning** Project!
 - 🌱 I’m currently learning stuff about **Data Structures, Algorithms and Federated Learning**
