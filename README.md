@@ -3,9 +3,9 @@
 I'm a *Junior Undergraduate* in ***Electronics Engineering*** from **IIT BHU, Varanasi**.
 I will be interning as a ***Member Technical Staff (MTS)*** in the ***Server Technology Group*** @ **ORACLE** in the summer of 2021.
 My Domains of Interest include: ***Software Development, Deep Learning*** and ***Competitive Programming***.
-- 🔭 I’m currently working on a **Federated Learning** Project!
-- 🌱 I’m currently learning stuff about **Data Structures, Algorithms and Federated Learning**
-- ⚡  Fun fact: I love to play Synthesizer & Chegging.
+<!--- 🔭 I’m currently working on a **Federated Learning** Project!-->
+- 🌱 I’m currently learning stuff about **Data Structures and Algorithms**
+<!--- ⚡  Fun fact: I love to play Synthesizer & Chegging.-->
 
 #### Connect with me:
 
