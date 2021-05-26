@@ -42,9 +42,6 @@ My Domains of Interest include: ***Software Development, Deep Learning*** and **
 
 ---
 
-
-<img align="left" alt="adipro7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adipro7&show_icons=true&hide_border=true" />
-
 [website]: https://apg7.tech
 [twitter]: https://twitter.com/_AdityaPrakash_
 [instagram]: https://www.instagram.com/aditya_prakash_gupta/
