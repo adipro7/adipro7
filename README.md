@@ -1,11 +1,11 @@
 ### Hi there, I'm Aditya👋️!
+Currently, I am working as a **Software Developer-2 at Oracle** in the *OCI Object Storage Unit*. I have completed my Bachelors from **IIT BHU Varanasi** in *Electronics Engineering* and I belong to the Class of 22.
 
-I'm a *Junior Undergraduate* in ***Electronics Engineering*** from **IIT BHU, Varanasi**.
 <!--I will be interning as a ***Member Technical Staff (MTS)*** in the ***Server Technology Group*** @ **ORACLE** in the summer of 2021.-->
 My Domains of Interest include: ***Software Development, Deep Learning*** and ***Competitive Programming***.
 <!--- 🔭 I’m currently working on a **Federated Learning** Project!-->
 - 🌱 I’m currently learning stuff about **Data Structures and Algorithms**
-<!--- ⚡  Fun fact: I love to play Synthesizer & Chegging.-->
+- ⚡  Fun fact: I love to sing along with my Guitar and Keyboard!
 
 #### Connect with me:
 
