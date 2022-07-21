@@ -42,9 +42,9 @@ My Domains of Interest include: ***Software Development, Deep Learning*** and **
 
 ---
 
-[website]: https://apg7.tech
-[twitter]: https://twitter.com/_AdityaPrakash_
-[instagram]: https://www.instagram.com/aditya_prakash_gupta/
+[website]: https://adipro7.github.io
+<!--[twitter]: https://twitter.com/_AdityaPrakash_-->
+<!--[instagram]: https://www.instagram.com/aditya_prakash_gupta/-->
 [linkedin]: https://www.linkedin.com/in/aditya-prakash-gupta/
-[facebook]: https://www.facebook.com/apg1167
+<!--[facebook]: https://www.facebook.com/apg1167-->
 [quora]: https://www.quora.com/profile/Aditya-Prakash-Gupta-1
